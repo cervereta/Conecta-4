@@ -21,7 +21,7 @@ Compatible con GitHub Pages para jugar directamente en el navegador.
 
 ### Cómo Jugar
 
-Visita el sitio web en [Conecta4]( https://cervereta.github.io/Conecta4/)
+Visita el sitio web en [Conecta-4]( https://cervereta.github.io/Conecta4/)
 
 Haz clic en una columna para soltar tu ficha (rojo empieza).
 Alterna turnos con el otro jugador hasta conectar cuatro fichas o llenar el tablero.
